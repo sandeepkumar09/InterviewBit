@@ -1,0 +1,12 @@
+A few ideas :
+
+    Give the pros and cons of using a generator vs container where access to multiple related data items is required.
+    Give an example of the difference between dunder_getattr and dunder_getattribute
+    Explain the advantages of using dataclasses.
+    Why would you want a custom class to implement dunder_getslice and dunder_setslice
+    Can you explain the Python MRO and how the super() function fits into that.
+    Give the pros and cons of using comprehensions vs explicit loops
+    How does EAFP fit into to a Python coding style.
+    Give the pros and cons of multithreading vs multiprocessing in Python.
+
+These are just a sample - needless to say , if you can’t answer the questions yourself you shouldn’t be doing the interview (or you should have someone on your panel that can).
